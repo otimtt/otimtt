@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Timoteo 👋</h1>
+<h1 align="center">Hey, i'm Timoteo 👋</h1>
 
 <p align="center">
   Full Stack Developer with a focus on Linux system tools and security utilities.<br/>
