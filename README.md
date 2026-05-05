@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
@@ -22,6 +25,24 @@ Web applications with real-time backend and interactive frontend.
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**SysPanel**](https://github.com/otimtt/SysPanel) | FastAPI · WebSocket · JS | Real-time system monitoring dashboard — CPU, RAM, disk, temp and processes |
+| [**CentralOTI**](https://github.com/otimtt/CentralOTI) | PHP · MySQL · JS | Web platform with 22 AI agents integrated via 10 free APIs |
+| [**FinanceControl**](https://github.com/otimtt/FinanceControl) | HTML · CSS · JS | Personal finance manager with budget limits, category charts and CSV export |
+| [**AgendaFácil**](https://github.com/otimtt/AgendaFacil) | HTML · CSS · JS | Scheduling system for local services with visual calendar and client history |
+| [**EstoqueSimples**](https://github.com/otimtt/EstoqueSimples) | HTML · CSS · JS | Stock control for small businesses with low-stock alerts and movement history |
+
+---
+
+## 🐍 Python Tools
+
+CLI tools and automation scripts built in Python.
+
+| Project | Description |
+|---------|-------------|
+| [**OpenClaw**](https://github.com/otimtt/OpenClaw) | Multi-agent system running locally with Ollama |
+| [**ContractGen**](https://github.com/otimtt/ContractGen) | PDF contract generator from templates |
+| [**DeadLinkFinder**](https://github.com/otimtt/DeadLinkFinder) | Broken link checker for websites |
+| [**LocalBackup**](https://github.com/otimtt/LocalBackup) | Incremental local backup tool |
+| [**WiFiHistory**](https://github.com/otimtt/WiFiHistory) | Audit saved Wi-Fi networks on Linux |
 
 ---
 
