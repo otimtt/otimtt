@@ -1,16 +1,27 @@
 <h1 align="center">Hey, I'm Timoteo 👋</h1>
 
 <p align="center">
-  Developer focused on Linux system tools and security utilities.<br/>
-  I build CLI tools that solve real problems — from boot optimization to vulnerability scanning.
+  Full Stack Developer with a focus on Linux system tools and security utilities.<br/>
+  I build web apps and CLI tools that solve real problems — from real-time dashboards to vulnerability scanning.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLI-000000?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
 </p>
+
+---
+
+## 🌐 Full Stack
+
+Web applications with real-time backend and interactive frontend.
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**SysPanel**](https://github.com/otimtt/SysPanel) | FastAPI · WebSocket · JS | Real-time system monitoring dashboard — CPU, RAM, disk, temp and processes |
 
 ---
 
