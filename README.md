@@ -28,7 +28,6 @@ Web applications with real-time backend and interactive frontend.
 | Project | Stack | Description |
 |---------|-------|-------------|
 | [**SysPanel**](https://github.com/otimtt/SysPanel) | FastAPI · WebSocket · JS | Real-time system monitoring dashboard — CPU, RAM, disk, temp and processes |
-| [**CentralOTI**](https://github.com/otimtt/CentralOTI) | PHP · MySQL · JS | Web platform with 22 AI agents integrated via 10 free APIs |
 | [**FinanceControl**](https://github.com/otimtt/FinanceControl) | HTML · CSS · JS | Personal finance manager with budget limits, category charts and CSV export |
 | [**AgendaFácil**](https://github.com/otimtt/AgendaFacil) | HTML · CSS · JS | Scheduling system for local services with visual calendar and client history |
 | [**EstoqueSimples**](https://github.com/otimtt/EstoqueSimples) | HTML · CSS · JS | Stock control for small businesses with low-stock alerts and movement history |
