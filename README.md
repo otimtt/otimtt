@@ -2,7 +2,7 @@
 
 <p align="center">
   Full Stack Developer with a focus on Linux system tools and security utilities.<br/>
-  I build web apps and CLI tools that solve real problems from real time dashboards to vulnerability scanning.
+  I build web apps and CLI tools that solve real problems — from real-time dashboards to vulnerability scanning.
 </p>
 
 <p align="center">
@@ -36,14 +36,11 @@ Web applications with real-time backend and interactive frontend.
 
 ## 🐍 Python Tools
 
-CLI tools and automation scripts built in Python.
+Terminal utilities and experiments built in Python.
 
-| Project | Description |
-|---------|-------------|
-| [**ContractGen**](https://github.com/otimtt/ContractGen) | PDF contract generator from templates |
-| [**DeadLinkFinder**](https://github.com/otimtt/DeadLinkFinder) | Broken link checker for websites |
-| [**LocalBackup**](https://github.com/otimtt/LocalBackup) | Incremental local backup tool |
-| [**WiFiHistory**](https://github.com/otimtt/WiFiHistory) | Audit saved Wi-Fi networks on Linux |
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**weathermatrix**](https://github.com/otimtt/weathermatrix) | Python · curses · wttr.in | Matrix rain animation that adapts colors and characters to your local weather in real time |
 
 ---
 
