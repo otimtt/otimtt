@@ -2,7 +2,7 @@
 
 <p align="center">
   Full Stack Developer with a focus on Linux system tools and security utilities.<br/>
-  I build web apps and CLI tools that solve real problems — from real-time dashboards to vulnerability scanning.
+  I build web apps and CLI tools that solve real problems from real-time dashboards to vulnerability scanning!
 </p>
 
 <p align="center">
