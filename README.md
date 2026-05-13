@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -44,9 +45,19 @@ Terminal utilities and experiments built in Python.
 
 ---
 
+## 🖥️ Desktop & Graphics
+
+Native desktop applications and graphical tools.
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**WallpaperRS**](https://github.com/otimtt/WallpaperRS) | Rust · WGPU · WebView2 | High-performance animated wallpaper engine for Windows with GPU-accelerated rendering |
+
+---
+
 ## 🛠️ System Tools
 
-Tools that fix, optimize and monitor your Linux system.
+Tools that fix, optimize and monitor your system.
 
 | Project | Description |
 |---------|-------------|
@@ -54,6 +65,7 @@ Tools that fix, optimize and monitor your Linux system.
 | [**BootAudit**](https://github.com/otimtt/BootAudit) | Analyze systemd boot time and get recommendations on what to disable |
 | [**LogJanitor**](https://github.com/otimtt/LogJanitor) | Clean logs, package caches and temp files to reclaim disk space |
 | [**CPUProfile**](https://github.com/otimtt/CPUProfile) | Manage CPU governors — switch between performance, balanced and powersave |
+| [**CPU-Freeesh**](https://github.com/otimtt/CPU-Freeesh) | CPU optimizer and process manager for Windows — boost performance with one click |
 | [**DiskScout**](https://github.com/otimtt/DiskScout) | Find large files, duplicates and bloated directories |
 
 ---
