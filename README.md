@@ -41,6 +41,7 @@ Terminal utilities and experiments built in Python.
 
 | Project | Stack | Description |
 |---------|-------|-------------|
+| [**NetMonitor**](https://github.com/otimtt/netmonitor) | Python · Rich · Threading | Real-time LAN latency monitor — discovers all devices on your network and shows live ping with sparkline history |
 | [**weathermatrix**](https://github.com/otimtt/weathermatrix) | Python · curses · wttr.in | Matrix rain animation that adapts colors and characters to your local weather in real time |
 
 ---
