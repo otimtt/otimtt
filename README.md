@@ -1,8 +1,16 @@
-<h1 align="center">Oi, eu sou o Timoteo 👋</h1>
+<div align="center">
+
+<kbd>[🇧🇷 Português](#-sobre-mim)</kbd> &nbsp; <kbd>[🇺🇸 English](#-about-me)</kbd>
+
+</div>
+
+---
+
+## 🇺🇸 About Me
 
 <p align="center">
-  Desenvolvedor Full Stack com foco em ferramentas Linux, sistemas web e utilitários de segurança.<br/>
-  Construo aplicações e CLIs que resolvem problemas reais — de dashboards em tempo real a scanners de vulnerabilidade.
+  Full Stack Developer focused on Linux tools, web systems, and security utilities.<br/>
+  I build applications and CLIs that solve real problems — from real-time dashboards to vulnerability scanners.
 </p>
 
 <p align="center">
@@ -12,16 +20,86 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Segurança-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 ---
 
-## 🌐 Full Stack
+### 🌐 Full Stack
 
-Aplicações web com backend robusto e frontend interativo.
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**RepairOS**](https://github.com/otimtt/RepairOS) | PHP · SQLite · MySQL | Complete management system for electronics repair shops — service orders, clients, inventory, financials and a fully customizable panel |
+| [**SysPanel**](https://github.com/otimtt/SysPanel) | FastAPI · WebSocket · JS | Real-time Linux system monitoring dashboard — CPU, RAM, disk, temperature and processes |
+| [**FinanceControl**](https://github.com/otimtt/FinanceControl) | HTML · CSS · JS | Personal finance manager with categories, budget limits and charts |
+| [**AgendaFácil**](https://github.com/otimtt/AgendaFacil) | HTML · CSS · JS | Scheduling system for salons and clinics with visual calendar and client history |
+| [**EstoqueSimples**](https://github.com/otimtt/EstoqueSimples) | HTML · CSS · JS | Inventory control for small businesses with low-stock alerts and movement history |
+
+---
+
+### 🐍 Python Tools
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**NetMonitor**](https://github.com/otimtt/netmonitor) | Python · Rich · Threading | Real-time LAN latency monitor — discovers all network devices and shows live ping with history |
+| [**WeatherMatrix**](https://github.com/otimtt/weathermatrix) | Python · curses · wttr.in | Matrix rain animation in the terminal that adapts colors and characters to the local weather |
+
+---
+
+### 🖥️ Desktop & Graphics
+
+| Project | Stack | Description |
+|---------|-------|-------------|
+| [**WallpaperRS**](https://github.com/otimtt/WallpaperRS) | Rust · WGPU · egui | High-performance animated wallpaper engine with GPU-accelerated rendering |
+
+---
+
+### 🛠️ System Tools
+
+| Project | Description |
+|---------|-------------|
+| [**CPU-Freeesh**](https://github.com/otimtt/CPU-Freeesh) | Game performance optimizer for Windows — boosts CPU, frees RAM, pauses background services |
+| [**RamBoost**](https://github.com/otimtt/RamBoost) | Frees RAM by dropping caches and cleaning zombie processes |
+| [**BootAudit**](https://github.com/otimtt/BootAudit) | Analyzes systemd boot time and recommends what to disable |
+| [**LogJanitor**](https://github.com/otimtt/LogJanitor) | Cleans logs, package caches and temp files to reclaim disk space |
+| [**CPUProfile**](https://github.com/otimtt/CPUProfile) | Manages CPU frequency governors — switch between performance, balanced and powersave |
+| [**DiskScout**](https://github.com/otimtt/DiskScout) | Finds large files, duplicates and bloated directories |
+
+---
+
+### 🔒 Security
+
+| Project | Description |
+|---------|-------------|
+| [**VulnScan**](https://github.com/otimtt/VulnScan) | Automated web vulnerability scanner — XSS, SQLi, open redirects, missing headers |
+| [**NetRecon**](https://github.com/otimtt/NetRecon) | Multi-threaded port scanner with banner grabbing and OS fingerprinting |
+| [**LogHunter**](https://github.com/otimtt/LogHunter) | SIEM-lite log analyzer — detects brute force and attacks in Apache/Nginx and SSH logs |
+| [**CryptoVault**](https://github.com/otimtt/CryptoVault) | Local CLI password manager with AES-256-GCM encryption and auto clipboard clear |
+| [**CTFPlatform**](https://github.com/otimtt/CTFPlatform) | Full CTF hosting platform with JWT auth, live scoreboard and admin API |
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otimtt&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otimtt&layout=compact&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 🇧🇷 Sobre Mim
+
+<p align="center">
+  Desenvolvedor Full Stack com foco em ferramentas Linux, sistemas web e utilitários de segurança.<br/>
+  Construo aplicações e CLIs que resolvem problemas reais — de dashboards em tempo real a scanners de vulnerabilidade.
+</p>
+
+---
+
+### 🌐 Full Stack
 
 | Projeto | Stack | Descrição |
 |---------|-------|-----------|
@@ -33,20 +111,16 @@ Aplicações web com backend robusto e frontend interativo.
 
 ---
 
-## 🐍 Ferramentas Python
-
-Utilitários de terminal construídos em Python.
+### 🐍 Ferramentas Python
 
 | Projeto | Stack | Descrição |
 |---------|-------|-----------|
 | [**NetMonitor**](https://github.com/otimtt/netmonitor) | Python · Rich · Threading | Monitor de latência LAN em tempo real — descobre todos os dispositivos da rede e exibe ping ao vivo com histórico |
-| [**weathermatrix**](https://github.com/otimtt/weathermatrix) | Python · curses · wttr.in | Animação Matrix no terminal que adapta cores e caracteres ao clima local em tempo real |
+| [**WeatherMatrix**](https://github.com/otimtt/weathermatrix) | Python · curses · wttr.in | Animação Matrix no terminal que adapta cores e caracteres ao clima local em tempo real |
 
 ---
 
-## 🖥️ Desktop & Gráficos
-
-Aplicações nativas e ferramentas visuais.
+### 🖥️ Desktop & Gráficos
 
 | Projeto | Stack | Descrição |
 |---------|-------|-----------|
@@ -54,24 +128,20 @@ Aplicações nativas e ferramentas visuais.
 
 ---
 
-## 🛠️ Ferramentas de Sistema
-
-Ferramentas que otimizam, limpam e monitoram o sistema.
+### 🛠️ Ferramentas de Sistema
 
 | Projeto | Descrição |
 |---------|-----------|
+| [**CPU-Freeesh**](https://github.com/otimtt/CPU-Freeesh) | Otimizador de performance para jogos no Windows — turbina CPU, libera RAM, pausa serviços em segundo plano |
 | [**RamBoost**](https://github.com/otimtt/RamBoost) | Libera RAM limpando caches e processos zumbi |
 | [**BootAudit**](https://github.com/otimtt/BootAudit) | Analisa o tempo de boot do systemd e sugere o que desativar |
 | [**LogJanitor**](https://github.com/otimtt/LogJanitor) | Limpa logs, caches de pacotes e arquivos temporários |
 | [**CPUProfile**](https://github.com/otimtt/CPUProfile) | Gerencia governadores de CPU — alterna entre performance, balanceado e economia |
-| [**CPU-Freeesh**](https://github.com/otimtt/CPU-Freeesh) | Otimizador de CPU e processos para Windows |
 | [**DiskScout**](https://github.com/otimtt/DiskScout) | Encontra arquivos grandes, duplicatas e diretórios que ocupam espaço |
 
 ---
 
-## 🔒 Segurança
-
-Ferramentas ofensivas e defensivas para aprendizado e pesquisa.
+### 🔒 Segurança
 
 | Projeto | Descrição |
 |---------|-----------|
