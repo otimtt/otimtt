@@ -10,7 +10,7 @@
 
 <p align="center">
   Full Stack Developer focused on Linux tools, web systems, and security utilities.<br/>
-  I build applications and CLIs that solve real problems — from real-time dashboards to vulnerability scanners.
+  I build applications and CLIs that solve real problems from real-time dashboards to vulnerability scanners.
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
 
 <p align="center">
   Desenvolvedor Full Stack com foco em ferramentas Linux, sistemas web e utilitários de segurança.<br/>
-  Construo aplicações e CLIs que resolvem problemas reais — de dashboards em tempo real a scanners de vulnerabilidade.
+  Construo aplicações e CLIs que resolvem problemas reais de dashboards em tempo real a scanners de vulnerabilidade.
 </p>
 
 ---
