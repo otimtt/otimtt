@@ -42,19 +42,33 @@
 
 <div align="center">
 
-<a href="https://github.com/otimtt/FinanceControl">FINANCECONTROL</a> •
-<a href="https://github.com/otimtt/AgendaFacil">AGENDAFACIL</a> •
-<a href="https://github.com/otimtt/EstoqueSimples">ESTOQUESIMPLES</a> •
-<a href="https://github.com/otimtt/NetRecon">NETRECON</a> •
-<a href="https://github.com/otimtt/CryptoVault">CRYPTOVAULT</a> •
-<a href="https://github.com/otimtt/LogHunter">LOGHUNTER</a> •
-<a href="https://github.com/otimtt/BootAudit">BOOTAUDIT</a> •
-<a href="https://github.com/otimtt/CPUProfile">CPUPROFILE</a> •
-<a href="https://github.com/otimtt/DiskScout">DISKSCOUT</a> •
-<a href="https://github.com/otimtt/LogJanitor">LOGJANITOR</a> •
-<a href="https://github.com/otimtt/RamBoost">RAMBOOST</a> •
-<a href="https://github.com/otimtt/CPU-Freeesh">CPU-FREEESH</a> •
-<a href="https://github.com/otimtt/weathermatrix">WEATHERMATRIX</a>
+<table>
+  <tr>
+    <td align="center"><b>FINANCECONTROL</b><br><br><a href="https://github.com/otimtt/FinanceControl"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="FinanceControl"></a></td>
+    <td align="center"><b>AGENDAFACIL</b><br><br><a href="https://github.com/otimtt/AgendaFacil"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="AgendaFacil"></a></td>
+    <td align="center"><b>ESTOQUESIMPLES</b><br><br><a href="https://github.com/otimtt/EstoqueSimples"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="EstoqueSimples"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>NETRECON</b><br><br><a href="https://github.com/otimtt/NetRecon"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="NetRecon"></a></td>
+    <td align="center"><b>CRYPTOVAULT</b><br><br><a href="https://github.com/otimtt/CryptoVault"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="CryptoVault"></a></td>
+    <td align="center"><b>LOGHUNTER</b><br><br><a href="https://github.com/otimtt/LogHunter"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="LogHunter"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>BOOTAUDIT</b><br><br><a href="https://github.com/otimtt/BootAudit"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="BootAudit"></a></td>
+    <td align="center"><b>CPUPROFILE</b><br><br><a href="https://github.com/otimtt/CPUProfile"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="CPUProfile"></a></td>
+    <td align="center"><b>DISKSCOUT</b><br><br><a href="https://github.com/otimtt/DiskScout"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="DiskScout"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>LOGJANITOR</b><br><br><a href="https://github.com/otimtt/LogJanitor"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="LogJanitor"></a></td>
+    <td align="center"><b>RAMBOOST</b><br><br><a href="https://github.com/otimtt/RamBoost"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="RamBoost"></a></td>
+    <td align="center"><b>CPU-FREEESH</b><br><br><a href="https://github.com/otimtt/CPU-Freeesh"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="CPU-Freeesh"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><b>WEATHERMATRIX</b><br><br><a href="https://github.com/otimtt/weathermatrix"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="weathermatrix"></a></td>
+    <td align="center"></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 </div>
 
