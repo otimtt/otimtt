@@ -19,8 +19,7 @@
 </div>
 
 <p align="center">
-  Desenvolvimento sistemas, ferramentas e interfaces com foco em solucao real.<br>
-  Web, Linux, automacao e seguranca na mesma identidade.
+  Desenvolvimento com foco em solucao real!
 </p>
 
 ---
@@ -77,9 +76,9 @@
 ## SOBRE
 
 <p>
-  Sou o Timoteo. Construo software com pegada visual forte e foco pratico: sistemas web,
-  ferramentas para Linux, automacoes e projetos de seguranca. Meu site mostra a atmosfera;
-  meu GitHub mostra o codigo.
+  Sou o Timoteo, construo software com pegada visual forte e foco pratico: sistemas web, Aplicativos, sites,
+  ferramentas para Linux, automacoes e projetos de seguranca! Meu site mostra a atmosfera e
+  meu GitHub mostra o codigo!
 </p>
 
 ---
@@ -90,6 +89,6 @@
 
 <a href="https://otimtt.com"><img src="https://img.shields.io/badge/OTIMTT.COM-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="otimtt.com"></a>
 
-<sub>Sem projetos privados aqui. So o que esta publico por escolha.</sub>
+<sub>Sem projetos privados aqui...</sub>
 
 </div>
