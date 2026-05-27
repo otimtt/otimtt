@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./otimtt-profile-hero.svg" alt="TIMT banner">
+</div>
+
+<div align="center">
 
 ## OLA, EU SOU
 
@@ -19,12 +23,17 @@
 </div>
 
 <p align="center">
-  Desenvolvimento com foco em solucao real!
+  Desenvolvimento sistemas, ferramentas e interfaces com foco em solucao real.<br>
+  Web, Linux, automacao e seguranca na mesma identidade.
 </p>
 
 ---
 
 ## SOLUCOES REAIS PARA PROBLEMAS REAIS
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BUILDING%20DIGITAL%20SYSTEMS%20WITH%20VISUAL%20IDENTITY-111111?style=for-the-badge&labelColor=000000&color=111111" alt="Building digital systems with visual identity">
+</div>
 
 | Projeto | Stack | Resumo |
 |---|---|---|
@@ -76,9 +85,9 @@
 ## SOBRE
 
 <p>
-  Sou o Timoteo, construo software com pegada visual forte e foco pratico: sistemas web, Aplicativos, sites,
-  ferramentas para Linux, automacoes e projetos de seguranca! Meu site mostra a atmosfera e
-  meu GitHub mostra o codigo!
+  Sou o Timoteo. Construo software com pegada visual forte e foco pratico: sistemas web,
+  ferramentas para Linux, automacoes e projetos de seguranca. Meu site mostra a atmosfera;
+  meu GitHub mostra o codigo.
 </p>
 
 ---
@@ -89,6 +98,6 @@
 
 <a href="https://otimtt.com"><img src="https://img.shields.io/badge/OTIMTT.COM-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="otimtt.com"></a>
 
-<sub>Sem projetos privados aqui...</sub>
+<sub>Sem projetos privados aqui. So o que esta publico por escolha.</sub>
 
 </div>
