@@ -1,103 +1,58 @@
-<div align="center">
-  <img src="./otimtt-profile-hero.svg" alt="TIMT banner">
-</div>
+# Timóteo Silva
 
-<div align="center">
+Software developer focused on web systems, desktop tools, automation and practical product development
 
-## OLA, EU SOU
+## Stack
 
-# TIMT
+HTML
+CSS
+JavaScript
+PHP
+Python
+Rust
+MySQL
+SQLite
+FastAPI
+WebSocket
+Linux
 
-### PROGRAMADOR FULL STACK & DESIGNER
+## Featured Projects
 
-<a href="https://otimtt.com"><img src="https://img.shields.io/badge/SITE-000000?style=for-the-badge&logoColor=white&labelColor=000000&color=e30000" alt="Site"></a>
-<a href="https://github.com/otimtt?tab=repositories"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=e30000" alt="Portfolio"></a>
-<a href="mailto:timoteosilvaofc99@gmail.com"><img src="https://img.shields.io/badge/CONTATO-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=e30000" alt="Contato"></a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/CODIGO%20COM%20PROPOSITO-e30000?style=for-the-badge&labelColor=000000" alt="Codigo com proposito">
-</div>
-
-<p align="center">
-  Desenvolvimento sistemas, ferramentas e interfaces com foco em solucao real.<br>
-  Web, Linux, automacao e seguranca na mesma identidade.
-</p>
-
----
-
-## SOLUCOES REAIS PARA PROBLEMAS REAIS
-
-<div align="center">
-  <img src="https://img.shields.io/badge/BUILDING%20DIGITAL%20SYSTEMS%20WITH%20VISUAL%20IDENTITY-111111?style=for-the-badge&labelColor=000000&color=111111" alt="Building digital systems with visual identity">
-</div>
-
-| Projeto | Stack | Resumo |
+| Project | Stack | Summary |
 |---|---|---|
-| [RepairOS](https://github.com/otimtt/RepairOS) | PHP · MySQL · SQLite | Sistema completo para assistencias tecnicas com OS, clientes, estoque e financeiro |
-| [SysPanel](https://github.com/otimtt/SysPanel) | FastAPI · WebSocket · JavaScript | Dashboard de monitoramento Linux em tempo real |
-| [WallpaperRS](https://github.com/otimtt/WallpaperRS) | Rust · WGPU · egui | Motor de wallpapers animados com renderizacao via GPU |
-| [CTFPlatform](https://github.com/otimtt/CTFPlatform) | Python · JWT · API | Plataforma para desafios CTF com auth e placar ao vivo |
-| [VulnScan](https://github.com/otimtt/VulnScan) | Python · Security | Scanner automatico para vulnerabilidades web |
-| [netmonitor](https://github.com/otimtt/netmonitor) | Python · Rich · Threading | Monitor de latencia da LAN com descoberta de dispositivos |
+| [RepairOS](https://github.com/otimtt/RepairOS) | PHP · MySQL · SQLite | Management system for electronics repair shops with service orders, customer records, inventory and finance workflows |
+| [SysPanel](https://github.com/otimtt/SysPanel) | FastAPI · WebSocket · JavaScript | Real-time Linux monitoring dashboard with live system metrics and browser-based visibility |
+| [WallpaperRS](https://github.com/otimtt/WallpaperRS) | Rust · WGPU · egui | GPU-accelerated animated wallpaper engine built for performance and native rendering |
+| [CTFPlatform](https://github.com/otimtt/CTFPlatform) | Python · JWT · API | Capture The Flag platform with authentication, scoring, hints and administrative endpoints |
+| [VulnScan](https://github.com/otimtt/VulnScan) | Python · Security | Automated web vulnerability scanner for common security issues and response analysis |
+| [NetRecon](https://github.com/otimtt/NetRecon) | Python · Networking | Network reconnaissance tool for port scanning, banner collection and operating system fingerprinting |
 
----
+## Public Repositories
 
-## PORTFOLIO
+| Project | Summary |
+|---|---|
+| [AgendaFacil](https://github.com/otimtt/AgendaFacil) | Scheduling system for salons and clinics with calendar views and client history |
+| [BootAudit](https://github.com/otimtt/BootAudit) | Linux boot analysis utility focused on startup time inspection and service optimization |
+| [CPU-Freeesh](https://github.com/otimtt/CPU-Freeesh) | Windows utility for CPU process tuning and performance adjustment |
+| [CPUProfile](https://github.com/otimtt/CPUProfile) | Linux CPU governor manager for switching performance profiles |
+| [CryptoVault](https://github.com/otimtt/CryptoVault) | Local password manager with AES-256-GCM encryption and secure clipboard handling |
+| [CTFPlatform](https://github.com/otimtt/CTFPlatform) | Capture The Flag platform with authentication, scoring, hints and admin tooling |
+| [DiskScout](https://github.com/otimtt/DiskScout) | Linux storage inspection tool for large files, duplicates and disk usage analysis |
+| [EstoqueSimples](https://github.com/otimtt/EstoqueSimples) | Inventory management application for small businesses with alerts, movements and CSV export |
+| [FinanceControl](https://github.com/otimtt/FinanceControl) | Personal finance management tool with categories, budget limits and visual reports |
+| [LogHunter](https://github.com/otimtt/LogHunter) | SIEM-inspired log analysis tool for brute force detection across Apache, Nginx and SSH logs |
+| [LogJanitor](https://github.com/otimtt/LogJanitor) | Linux cleanup utility for logs, package caches and temporary files |
+| [netmonitor](https://github.com/otimtt/netmonitor) | LAN latency monitor with continuous device response tracking |
+| [NetRecon](https://github.com/otimtt/NetRecon) | Network reconnaissance tool for port scanning, banner collection and operating system fingerprinting |
+| [RepairOS](https://github.com/otimtt/RepairOS) | Electronics repair management system with service orders, inventory and financial control |
+| [RamBoost](https://github.com/otimtt/RamBoost) | Linux memory cleanup utility for cache release and zombie process handling |
+| [SysPanel](https://github.com/otimtt/SysPanel) | Real-time Linux monitoring dashboard built with FastAPI and WebSocket communication |
+| [VulnScan](https://github.com/otimtt/VulnScan) | Automated web vulnerability scanner for common security issues and response analysis |
+| [WallpaperRS](https://github.com/otimtt/WallpaperRS) | GPU-accelerated animated wallpaper engine built with Rust and WGPU |
+| [weathermatrix](https://github.com/otimtt/weathermatrix) | Terminal Matrix animation that adapts to live weather conditions |
 
-<div align="center">
+## Contact
 
-<table>
-  <tr>
-    <td align="center"><b>FINANCECONTROL</b><br><br><a href="https://github.com/otimtt/FinanceControl"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="FinanceControl"></a></td>
-    <td align="center"><b>AGENDAFACIL</b><br><br><a href="https://github.com/otimtt/AgendaFacil"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="AgendaFacil"></a></td>
-    <td align="center"><b>ESTOQUESIMPLES</b><br><br><a href="https://github.com/otimtt/EstoqueSimples"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="EstoqueSimples"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>NETRECON</b><br><br><a href="https://github.com/otimtt/NetRecon"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="NetRecon"></a></td>
-    <td align="center"><b>CRYPTOVAULT</b><br><br><a href="https://github.com/otimtt/CryptoVault"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="CryptoVault"></a></td>
-    <td align="center"><b>LOGHUNTER</b><br><br><a href="https://github.com/otimtt/LogHunter"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="LogHunter"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>BOOTAUDIT</b><br><br><a href="https://github.com/otimtt/BootAudit"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="BootAudit"></a></td>
-    <td align="center"><b>CPUPROFILE</b><br><br><a href="https://github.com/otimtt/CPUProfile"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="CPUProfile"></a></td>
-    <td align="center"><b>DISKSCOUT</b><br><br><a href="https://github.com/otimtt/DiskScout"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="DiskScout"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>LOGJANITOR</b><br><br><a href="https://github.com/otimtt/LogJanitor"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="LogJanitor"></a></td>
-    <td align="center"><b>RAMBOOST</b><br><br><a href="https://github.com/otimtt/RamBoost"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="RamBoost"></a></td>
-    <td align="center"><b>CPU-FREEESH</b><br><br><a href="https://github.com/otimtt/CPU-Freeesh"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="CPU-Freeesh"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><b>WEATHERMATRIX</b><br><br><a href="https://github.com/otimtt/weathermatrix"><img src="https://img.shields.io/badge/VER%20PROJETO-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="weathermatrix"></a></td>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-</table>
+Website: [otimtt.com](https://otimtt.com)
 
-</div>
-
----
-
-## SOBRE
-
-<p>
-  Sou o Timoteo. Construo software com pegada visual forte e foco pratico: sistemas web,
-  ferramentas para Linux, automacoes e projetos de seguranca. Meu site mostra a atmosfera;
-  meu GitHub mostra o codigo.
-</p>
-
----
-
-<div align="center">
-
-### VER MAIS
-
-<a href="https://otimtt.com"><img src="https://img.shields.io/badge/OTIMTT.COM-e30000?style=for-the-badge&labelColor=000000&color=e30000" alt="otimtt.com"></a>
-
-<sub>Sem projetos privados aqui. So o que esta publico por escolha.</sub>
-
-</div>
+Email: [timoteosilvaofc99@gmail.com](mailto:timoteosilvaofc99@gmail.com)
