@@ -1,4 +1,4 @@
-# Timóteo Silva
+# Timt
 
 Software developer focused on web systems, desktop tools, backend architecture and practical product development
 
