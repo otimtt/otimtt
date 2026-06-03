@@ -1,6 +1,6 @@
 # Timóteo Silva
 
-Software developer focused on web systems, desktop tools, automation and practical product development
+Software developer focused on web systems, desktop tools, backend architecture and practical product development
 
 ## Stack
 
