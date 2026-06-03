@@ -7,6 +7,7 @@ Software developer focused on web systems, desktop tools, backend architecture a
 HTML
 CSS
 JavaScript
+React
 PHP
 Python
 Rust
@@ -14,6 +15,7 @@ MySQL
 SQLite
 FastAPI
 WebSocket
+Supabase
 Linux
 
 ## Featured Projects
