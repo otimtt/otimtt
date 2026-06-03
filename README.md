@@ -16,7 +16,7 @@ SQLite
 FastAPI
 WebSocket
 Supabase
-Linux
+Linux (Arch)
 
 ## Featured Projects
 
@@ -57,4 +57,4 @@ Linux
 
 Website: [otimtt.com](https://otimtt.com)
 
-Email: [timoteosilvaofc99@gmail.com](mailto:businessotimtt@gmail.com)
+Email: [businessotimtt@gmail.com](mailto:businessotimtt@gmail.com)
