@@ -26,6 +26,7 @@ Linux (Arch)
 | [SysPanel](https://github.com/otimtt/SysPanel) | FastAPI · WebSocket · JavaScript | Real-time Linux monitoring dashboard with live system metrics and browser-based visibility |
 | [WallpaperRS](https://github.com/otimtt/WallpaperRS) | Rust · WGPU · egui | GPU-accelerated animated wallpaper engine built for performance and native rendering |
 | [CTFPlatform](https://github.com/otimtt/CTFPlatform) | Python · JWT · API | Capture The Flag platform with authentication, scoring, hints and administrative endpoints |
+| [Eye's](https://github.com/otimtt/eyes-audit) | Python · Security · CLI | Defensive web and API surface auditor for authorized reviews with JSON and HTML reporting |
 | [VulnScan](https://github.com/otimtt/VulnScan) | Python · Security | Automated web vulnerability scanner for common security issues and response analysis |
 | [NetRecon](https://github.com/otimtt/NetRecon) | Python · Networking | Network reconnaissance tool for port scanning, banner collection and operating system fingerprinting |
 
@@ -40,6 +41,7 @@ Linux (Arch)
 | [CryptoVault](https://github.com/otimtt/CryptoVault) | Local password manager with AES-256-GCM encryption and secure clipboard handling |
 | [CTFPlatform](https://github.com/otimtt/CTFPlatform) | Capture The Flag platform with authentication, scoring, hints and admin tooling |
 | [DiskScout](https://github.com/otimtt/DiskScout) | Linux storage inspection tool for large files, duplicates and disk usage analysis |
+| [Eye's](https://github.com/otimtt/eyes-audit) | Defensive web and API surface auditor for authorized assessments with exportable reports |
 | [EstoqueSimples](https://github.com/otimtt/EstoqueSimples) | Inventory management application for small businesses with alerts, movements and CSV export |
 | [FinanceControl](https://github.com/otimtt/FinanceControl) | Personal finance management tool with categories, budget limits and visual reports |
 | [LogHunter](https://github.com/otimtt/LogHunter) | SIEM-inspired log analysis tool for brute force detection across Apache, Nginx and SSH logs |
