@@ -57,4 +57,4 @@ Linux
 
 Website: [otimtt.com](https://otimtt.com)
 
-Email: [timoteosilvaofc99@gmail.com](mailto:timoteosilvaofc99@gmail.com)
+Email: [timoteosilvaofc99@gmail.com](mailto:businessotimtt@gmail.com)
