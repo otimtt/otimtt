@@ -30,6 +30,19 @@ Main points:
 - Android security checks through `adb`
 - Findings organized with severity, evidence, and recommendation
 
+## New Project
+
+### [Capture Won (CW)](https://github.com/otimtt/CaptureWonCW)
+
+Desktop screenshot and screen recording application with a GUI-first workflow and a multi-platform architecture.
+
+Main points:
+
+- GUI-based capture and recording flow
+- Screenshot and recording modes for desktop use
+- Saved preferences, presets, and recent file history
+- Cross-platform structure for Linux, Windows, and macOS
+
 ## Current Direction
 
 My GitHub is being rebuilt with a cleaner and more intentional portfolio.
