@@ -43,6 +43,17 @@ Main points:
 - Saved preferences, presets, and recent file history
 - Cross-platform structure for Linux, Windows, and macOS
 
+### [Compiler Universal Pro (CUP)](https://github.com/otimtt/compiler-universal-pro)
+
+Universal compiler and runtime orchestrator for multi-stack projects, built as a capability and code architecture test.
+
+Main points:
+
+- Built with Python and PyQt6
+- Supports C, C++, Java, Go, Python, PHP, Rust, and Node/TypeScript
+- Detects, validates, builds, and runs projects through a single workflow
+- Includes a compact desktop UI with drag-and-drop and a gated `RUN` button
+
 ## Current Direction
 
 My GitHub is being rebuilt with a cleaner and more intentional portfolio.
